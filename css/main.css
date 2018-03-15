@@ -3,7 +3,7 @@
 }
 
 #arsinoitherium-control:checked ~ .carousel-inner #arsinoitherium,
-#elasmotheirum-control:checked ~ .carousel-inner #elasmotheirum,
+#elasmotherium-control:checked ~ .carousel-inner #elasmotherium,
 #glyptodon-control:checked ~ .carousel-inner #glyptodon,
 #megatherium-control:checked ~ .carousel-inner #megatherium {
   display: block;
@@ -15,8 +15,8 @@
 }
 
 #arsinoitherium-control:checked ~ .carousel-inner [for="arsinoitherium-control"],
-#elasmotheirum-control:checked ~ .carousel-inner [for="elasmotheirum-control"],
+#elasmotherium-control:checked ~ .carousel-inner [for="elasmotherium-control"],
 #glyptodon-control:checked ~ .carousel-inner [for="glyptodon-control"],
 #megatherium-control:checked ~ .carousel-inner [for="megatherium-control"] {
-background-color: #fff;
+  background-color: #fff;
 }
